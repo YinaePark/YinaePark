@@ -1,4 +1,6 @@
 ## YINAE 🌱
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheera011)](https://solved.ac/cheera011/)
+
 
 <!--
 **YinaePark/YinaePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
