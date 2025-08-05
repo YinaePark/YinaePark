@@ -65,6 +65,32 @@
     </tr>
   </tbody>
 </table>
+<!-- ====================================================================
+     Awards 섹션 - 수상 이력
+==================================================================== -->
+<h2>🏅 Awards</h2>
+<table border="1" cellspacing="0" cellpadding="12" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #f8f9fa;">
+      <th align="center">📅 날짜</th>
+      <th align="center">🏆 시상</th>
+      <th align="center">🎯 대회명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        2025.08.02
+      </td>
+      <td align="center">
+        대상
+      </td>
+      <td align="center">
+        2025 울산 공공데이터 활용 창업경진대회 
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- ====================================================================
      Certifications 섹션 - 자격증 정보
