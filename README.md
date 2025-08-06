@@ -150,6 +150,9 @@ SAA-C03 </b>
         NCP Object Storage, Server, Cloud DB for MySQL
       </td>
       <td align="center">
+        <a href=https://canyon-singer-366.notion.site/22f8ba59063a807ea376dac626061406?source=copy_link>
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="notion">
+        </a>
         <a href="https://github.com/00data-team00/server">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
         </a>
@@ -194,7 +197,9 @@ SAA-C03 </b>
         AWS EKS, AWS MSK
       </td>
       <td align="center">
-        -
+        <a href=https://canyon-singer-366.notion.site/CJ-CLOUD-WAVE-1b98ba59063a8068a7f4ce7d979475fd?source=copy_link>
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="notion">
+        </a>
       </td>
     </tr>
   </tbody>
