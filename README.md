@@ -143,7 +143,8 @@ SAA-C03 </b>
       </td>
       <td align="center">
         다문화 가정 어린이 대상 언어 학습을 위한 AI 챗봇 어플<br>
-        <b>역할:</b> STT, TTS, CLOVA API를 이용한 음성 챗봇 서버 구축 및 배포, 공공데이터 크롤링 및 커뮤니티 기능 구현
+        <b>역할:</b> STT, TTS, CLOVA API를 이용한 음성 챗봇 서버 구축 및 배포, 공공데이터 크롤링 및 커뮤니티 기능 구현<br>
+        <b>성과:</b> 2025 울산광역시 공공데이터 활용 창업경진대회 대상 수상 
       </td>
       <td align="center">
         Spring Boot, Redis, MySQL<br>
