@@ -223,13 +223,18 @@ SAA-C03 </b>
     <!-- !!!!!!!!!!!!!!!!!!!!!!!!!! -->
     <tr>
       <td align="center">
-        -    
+        PS 스터디  
       </td>
       <td align="center">
-        -
+        PS 문제 최적 알고리즘 선택 및 마이크로 최적화 
       </td>
       <td align="center">
-        -
+        <a href="https://midnight-catcher-3a7.notion.site/23f7d817ab0a8058b4bec8af53151a0b?source=copy_link">
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="notion">
+        </a>
+        <a href="https://github.com/HongDay/coding_study">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+        </a>
       </td>
     </tr>
   </tbody>
@@ -238,7 +243,7 @@ SAA-C03 </b>
 <br>
 
 <!-- ====================================================================
-     Algorithm 섹션 - 알고리즘 문제해결 능력
+     Algorithm 섹션
 ==================================================================== -->
 <h2 align="left">🧮 Algorithm</h2>
 <div align="center">
