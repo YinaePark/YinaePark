@@ -19,6 +19,14 @@
         <b>UNIST, Computer Science & Engineering</b>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        2024.08 ~ 2025.02
+      </td>
+      <td align="center">
+        <b>Exchange student in France INSA LYON, Telecommunication</b>
+      </td>
+    </tr>
   </tbody>
 </table>
 
