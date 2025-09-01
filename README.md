@@ -170,22 +170,24 @@ SAA-C03 </b>
     <!-- AI 마케팅 콘텐츠 생성 웹사이트 (스위그) -->
     <tr>
       <td align="center">
-        2025.04 ~ 2025.06
+        2025.08 ~ 현재
       </td>
       <td align="center">
-        <b>스위그 (SWYP)</b>
+        <b>치킨스톡 </b>
       </td>
       <td align="center">
-        소상공인을 위한 AI 마케팅 콘텐츠 생성 웹사이트<br>
-        AI 콘텐츠 생성, SNS 인사이트 지표 조회, 마케팅 트렌드 키워드 분석 기능 제공<br>
-        <b>역할:</b> 인스타그램 OAuth 로그인, SNS 인사이트 지표 조회, AI 콘텐츠 생성 기능 트러블슈팅, GitHub Action CI/CD 파이프라인 구축
+        주식 모의투자 게임
       </td>
       <td align="center">
-        Spring Boot, MySQL<br>
-        GitHub Actions, NCP Server
+        Node.js, Github Action
       </td>
       <td align="center">
-        - 
+        <a href=https://canyon-singer-366.notion.site/2618ba59063a80beb4eded2d816f7b94?source=copy_link>
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="notion">
+        </a>
+        <a href="https://github.com/YinaePark/chicken-stock-back">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+        </a>
       </td>
     </tr>
     <!-- CJ CLOUD WAVE 프로젝트 -->
