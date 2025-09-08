@@ -182,7 +182,7 @@ SAA-C03 </b>
         Node.js, Github Action
       </td>
       <td align="center">
-        <a href=https://canyon-singer-366.notion.site/2618ba59063a80beb4eded2d816f7b94?source=copy_link>
+        <a href=https://canyon-singer-366.notion.site/2688ba59063a806da474c877ecd7439d?source=copy_link>
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="notion">
         </a>
         <a href="https://github.com/YinaePark/chicken-stock-back">
